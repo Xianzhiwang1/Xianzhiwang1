@@ -1,7 +1,7 @@
 ## Xianzhi Wang
 **PhD student · Mathematics · Texas A&M University**
 
-Applied Math | Software & Data Science
+Applied Math | Software & Data Science |
 Leveraging statistics and probability theory, 
 building optimization pipelines and data-driven tools. 
 Strong Machine Learning coursework.
