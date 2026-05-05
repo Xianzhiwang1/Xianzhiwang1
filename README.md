@@ -28,9 +28,9 @@ Looking for **summer internships** in data and/or software development.
 ---
 
 ### What I build
-Efficient Numerical Computations in `C++`
-CI pipelines and Github action workflows
-Webapp project `TypeScript + Firebase` (in progress)
+- Efficient Numerical Computations in `C++`
+- CI pipelines and Github action workflows
+- Webapp project `TypeScript + Firebase` (in progress)
 
 ### Contact
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-xianzhi--wang-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/xianzhi-wang-a81524196)
