@@ -21,7 +21,7 @@ Looking for **summer internships** in data and/or software development.
 | | |
 |---|---|
 | **Degree** | PhD in Mathematics, Texas A&M | in progress
-| **Coursework:** Deep Learning, Math Foundation for Data Science, Machine Learning
+| **Coursework:** | Deep Learning, Math Foundation for Data Science, Machine Learning
 | **Research** | see personal website: [https://xianzhiwang1.github.io/pages/research/](https://xianzhiwang1.github.io/pages/research/) 
 
 
