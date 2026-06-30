@@ -1,19 +1,19 @@
 ## Xianzhi Wang
 **PhD student · Mathematics · Texas A&M University**
 
-Applied Math | Software & Data Science |
+Applied Math | Quantitative Research & Applied/Data Science |
 Leveraging statistics and probability theory, 
 building optimization pipelines and data-driven tools. 
 Strong Machine Learning coursework.
 Rigorous Math background.
-Looking for **summer internships** in data and/or software development. 
+Looking for **summer internships** in data/applied science and/or quantitative research/science. 
 
 ---
 
 ### Skills
 `Python` `NumPy / SciPy` `TypeScript` `Git` `Docker` `Linux`
 `Numerical Methods` `Optimization (MOSEK)` `LaTeX` `C++` `ParaView` `DEAL.II`
-
+`SQL` `data base` `CI CD` `Firebase` `React` `npm`
 ---
 
 ### At a glance
@@ -30,10 +30,10 @@ Looking for **summer internships** in data and/or software development.
 ### What I build
 - Efficient Numerical Computations in `C++`
 - CI pipelines and Github action workflows
-- Webapp project `TypeScript + Firebase` (in progress)
+- Webapp project `TypeScript + Firebase` see GitHub repo page
 
 ### Contact
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-xianzhi--wang-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/xianzhi-wang-a81524196)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-xianzhi--wang-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/xianzhiwang)
 
 <!--
 **Xianzhiwang1/Xianzhiwang1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
